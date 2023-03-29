@@ -120,7 +120,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=Microcontroller_STM32F10111.SchDoc
+DocumentPath=Microcontroller_STM32F10111rename.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -222,7 +222,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document11]
-DocumentPath=Microcontroller_STM32F10111.Harness
+DocumentPath=Microcontroller_STM32F10111rename.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
