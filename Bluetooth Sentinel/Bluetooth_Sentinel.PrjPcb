@@ -154,7 +154,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7]
-DocumentPath=Bluetooth_Sentinel.SchDoc
+DocumentPath=Bluetooth_Sentinel1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -168,7 +168,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RWSUTGZO
 
 [Document8]
 DocumentPath=Bluetooth.SchDoc
